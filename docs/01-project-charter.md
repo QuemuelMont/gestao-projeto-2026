@@ -1,5 +1,3 @@
-
-```markdown
 # Project Charter — SIGER
 
 ## 1. Identificação do Projeto
