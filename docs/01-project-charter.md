@@ -1,14 +1,4 @@
 
-As informações sobre objetivo, tecnologias e usuários vêm das Atividades 1 e 2 do documento. :contentReference[oaicite:2]{index=2}
-
----
-
-## 2. `docs/01-project-charter.md`
-
-Esse arquivo deve conter o **Project Charter** da Atividade 3.
-
-Use:
-
 ```markdown
 # Project Charter — SIGER
 
